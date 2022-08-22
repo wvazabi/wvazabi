@@ -15,6 +15,7 @@
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/engeneskaya)
     [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@eng.eneskaya)
+    [!Gmail](https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHvbJMmHLPpCMBqJhVwHpCsPlbmTgVfCvbbkmrDrqpGhxTPnKQzcWZLjkpKKFpKTHbRTpMV)
     
 ## 💻 Tech Stack
 
