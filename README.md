@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with better iOS app development.
 - 💬 Ask me about iOS development and Swift.
 - 📫 How to reach me: Check social links below.
-- ⚡ Fun fact: I spend almost 12 hours to drink *Turkish Tea* every day.
+- ⚡ Fun fact: I drink almost 20 cups of Turkish Tea every day
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/engeneskaya)
