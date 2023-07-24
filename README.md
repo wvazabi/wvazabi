@@ -6,8 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wvazabi&label=Views&color=blue&style=plastic&style=for-the-badge" alt="iampawan" /> </p>
 
 # 💫 About Me :
-- 🌱 I’m currently learning Swift.
-- 🤔 I’m looking for help with better iOS app development.
+- 🌱 I’m currently learning HTML,CSS,JS,C# and Swift.
+- 🤔 I’m looking for help with better development.
 - 💬 Ask me about iOS development and Swift.
 - 📫 How to reach me: Check social links below.
 - ⚡ Fun fact: I drink almost 20 cups of Turkish Tea every day
