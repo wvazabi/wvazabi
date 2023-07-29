@@ -25,8 +25,8 @@
 ## 👨🏻‍💻 Laptop in use & Favorite Terminal
 <img src="https://img.shields.io/badge/Apple-MacBook_Air_2020-333333?style=for-the-badge&logo=apple&logoColor=white"/>
 
-## Top Langs
-<p align="center">
+## 🐵Top Langs
+<p align="left">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wvazabi&theme=vue"/>
 </p>
 
