@@ -41,6 +41,8 @@
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=wvazabi&theme=vue" />
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
+
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
 
