@@ -25,10 +25,6 @@
 ## 👨🏻‍💻 Laptop in use & Favorite Terminal
 <img src="https://img.shields.io/badge/Apple-MacBook_Air_2020-333333?style=for-the-badge&logo=apple&logoColor=white"/>
 
-## 🐵Top Langs
-<p align="left">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wvazabi&theme=vue"/>
-</p>
 
 ## 💳 Github Profile Summary Card
 <p align="center">
@@ -41,6 +37,10 @@
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=wvazabi&theme=vue" />
 </p>
 
+## 🐵Top Langs
+<p align="left">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wvazabi&theme=vue"/>
+</p>
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
