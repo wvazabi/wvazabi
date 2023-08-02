@@ -37,10 +37,10 @@
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=wvazabi&theme=vue" />
 </p>
 
-## 🐵Top Langs
+<! --  ## 🐵Top Langs
 <p align="left">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wvazabi&theme=vue"/>
-</p>
+</p> --> 
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
