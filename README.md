@@ -11,6 +11,7 @@
 - 💬 Ask me about iOS development and Swift.
 - 📫 How to reach me: Check social links below.
 - ⚡ Fun fact: I drink almost 20 cups of Turkish Tea every day
+- E-mail: eng.eneskaya@gmail.com
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/engeneskaya)
