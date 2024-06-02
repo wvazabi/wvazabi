@@ -8,7 +8,7 @@
 # 💫 About Me :
 - 🌱 I’m currently learning JAVA,SPRING,HTML,CSS,JS and Swift.
 - 🤔 I’m looking for help with better development.
-- 💬 Ask me about iOS development and Swift.
+- 💬 Ask me about BE and FE development
 - 📫 How to reach me: Check social links below.
 - ⚡  Fun fact: I drink almost 20 cups of Turkish Tea every day
 - 📩 E-mail: eng.eneskaya@gmail.com
