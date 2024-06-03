@@ -26,17 +26,21 @@
 ## 👨🏻‍💻 Laptop in use & Favorite Terminal
 <img src="https://img.shields.io/badge/Apple-MacBook_Air_2020-333333?style=for-the-badge&logo=apple&logoColor=white"/>
 
-
-## 💳 Github Profile Summary Card
+## 🌟 GitHub Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wvazabi&theme=vue"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wvazabi&theme=vue" alt="Profile Details" />
+  <a href="https://github.com/wvazabi/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pylapp&layout=compact&theme=vue" alt="Top Languages" />
+  </a>
 </p>
 
-## 📟 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=wvazabi&show_icons=true&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=wvazabi&theme=vue" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=wvazabi&show_icons=true&theme=vue" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=wvazabi&theme=vue" alt="GitHub Streak Stats" />
 </p>
+
+
 
 
 
