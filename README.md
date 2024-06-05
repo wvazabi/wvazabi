@@ -44,9 +44,7 @@
 ## 🌟 GitHub Profile Summary Card
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wvazabi&theme=vue" alt="Profile Details" />
-  <a href="https://github.com/wvazabi/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pylapp&layout=compact&theme=vue" alt="Top Languages" />
-  </a>
+
 </p>
 
 ## 📊 GitHub Stats
