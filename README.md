@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wvazabi&label=Views&color=blue&style=plastic&style=for-the-badge" alt="iampawan" /> </p>
 
 # 💫 About Me :
-- 🌱 I’m currently learning JAVA,SPRING,HTML,CSS,JS and Swift.
+- 🌱 I’m learning and improving in JAVA, SPRING, HTML, CSS, JS, and React.
 - 🤔 I’m looking for help with better development.
 - 💬 Ask me about BE and FE development
 - 📫 How to reach me: Check social links below.
